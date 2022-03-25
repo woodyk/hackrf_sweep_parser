@@ -33,8 +33,10 @@ freq:106719760 seen:3 avgPower:-25 maxPower:-21.97 minPower:-29.62
 ```
 
 The output will return the following.
+```
 freq:frequency in hz
 seen:number of times seen across each sweep
 avgPower:average power across the sweeps
 maxPower:maximum power across the sweeps
 minPower:minimum power across the sweeps
+```
