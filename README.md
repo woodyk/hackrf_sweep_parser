@@ -10,6 +10,7 @@ freq_finder.pl <power_level> <num_of_sweeps>
 The following will search out frequencies with a powerlevel of -30 or
 greater, across 5 sweeps.
 
+```
 freq_finder.pl -30 5
 freq:99061979 seen:2 avgPower:-29 maxPower:-29.19 minPower:-29.27
 freq:99091969 seen:2 avgPower:-26 maxPower:-23.63 minPower:-29.40
@@ -29,6 +30,7 @@ freq:106710763 seen:3 avgPower:-25 maxPower:-24.74 minPower:-27.22
 freq:106713762 seen:3 avgPower:-24 maxPower:-21.24 minPower:-28.01
 freq:106716761 seen:4 avgPower:-24 maxPower:-20.17 minPower:-28.73
 freq:106719760 seen:3 avgPower:-25 maxPower:-21.97 minPower:-29.62
+```
 
 The output will return the following.
 freq:frequency in hz
